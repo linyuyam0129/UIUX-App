@@ -21,6 +21,6 @@ public class 按鈕的動作 : MonoBehaviour
     }
     public void 第五頁()
     {
-        SceneManager.LoadScene("04");
+        SceneManager.LoadScene("05");
     }
 }
